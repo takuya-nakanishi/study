@@ -1,0 +1,21 @@
+# 秘密情報(テストアカウントのパスワード・API キー・トークン)
+.env
+.env.*
+*.pem
+*.key
+
+# 依存・ビルドの成果物
+node_modules/
+.venv/
+__pycache__/
+build/
+dist/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# エージェントの作業 worktree
+.claude/worktrees/
