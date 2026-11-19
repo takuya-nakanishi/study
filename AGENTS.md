@@ -80,7 +80,7 @@ scripts/    リポジトリの道具(scripts/wiki/ は Wiki の道具。agent-ba
 - 実在の人・取引先・家計・案件の事実(上の「デモデータとテストアカウント」)
 - 有料の教材・書籍・試験問題の本文の写し(要点と自分の言葉でのまとめだけを書く)
 
-**Wiki の中身を外へ出してよい経路は、相互レビュー(`cross-review`。追跡下のファイルが、依頼者が Claude Code なら OpenAI へ、Codex なら Anthropic へ渡る)だけ。**
+**Wiki の中身を外へ出してよい経路は、相互レビュー(`cross-review`。追跡下のファイルが、依頼者が Claude Code なら Google〈Antigravity〉へ、Antigravity・Codex なら Anthropic へ渡る。休止中の Codex を選んだときは OpenAI へ)だけ。**Google へは Antigravity のアカウントの「Enable Telemetry」が off(学習に使わせない)のときだけ。
 
 ### コミット
 
