@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>tnakanishi@sanei-clover.com</contactEmail>
+    <description>Claude(claude.ai の web・デスクトップ・モバイル)のカスタムコネクタから Hosted MCP サーバーへ繋ぐ OAuth クライアント</description>
+    <distributionState>Local</distributionState>
+    <isProtected>false</isProtected>
+    <label>Claude MCP</label>
+</ExternalClientApplication>

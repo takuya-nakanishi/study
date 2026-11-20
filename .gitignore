@@ -19,3 +19,7 @@ Thumbs.db
 
 # エージェントの作業 worktree
 .claude/worktrees/
+
+# Salesforce CLI の作業ファイル(認証のキャッシュを含みうる)
+.sf/
+.sfdx/
