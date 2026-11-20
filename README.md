@@ -17,4 +17,4 @@ scripts/    リポジトリの道具(scripts/wiki/ は Wiki の道具。agent-ba
 
 | 主題 | 状態 | 概要 |
 |---|---|---|
-| (まだ無い) | | |
+| [salesforce-agentforce](topics/salesforce-agentforce/) | 調査中 | Developer Edition で Agentforce・Hosted MCP・Claude × Salesforce を試す |
